@@ -1,0 +1,111 @@
+0:Griffe Acier:0:40:-1:-1:35:Attaque type 'Acier' de puissance 40:
+1:Tete de fer:0:60:-1:-1:20:Attaque type 'Acier' de puissance 60:
+2:Luminocanon:0:75:-1:-1:15:Attaque type 'Acier' de puissance 75:
+3:Poing Meteore:0:90:-1:-1:10:Attaque type 'Acier' de puissance 90:
+4:Queue de fer:0:110:-1:-1:5:Attaque type 'Acier' de puissance 110:
+5:Mach Punch:1:40:-1:-1:35:Attaque type 'Combat' de puissance 40:
+6:Forte-Paume:1:60:-1:-1:20:Attaque type 'Combat' de puissance 60:
+7:Frappe Atlas:1:75:-1:-1:15:Attaque type 'Combat' de puissance 75:
+8:Pied Voltige:1:90:-1:-1:10:Attaque type 'Combat' de puissance 90:
+9:Mitra-Poing:1:110:-1:-1:5:Attaque type 'Combat' de puissance 110:
+10:Double Baffe:2:40:-1:-1:35:Attaque type 'Dragon' de puissance 40:
+11:Dracosouffle:2:60:-1:-1:20:Attaque type 'Dragon' de puissance 60:
+12:Dracochoc:2:75:-1:-1:15:Attaque type 'Dragon' de puissance 75:
+13:Colere:2:90:-1:-1:10:Attaque type 'Dragon' de puissance 90:
+14:Hurle-Temps:2:110:-1:-1:5:Attaque type 'Dragon' de puissance 110:
+15:Pistolet a Eau:3:40:-1:-1:35:Attaque type 'Eau' de puissance 40:
+16:Vibraqua:3:60:-1:-1:20:Attaque type 'Eau' de puissance 60:
+17:Surf:3:75:-1:-1:15:Attaque type 'Eau' de puissance 75:
+18:Hydroqueue:3:90:-1:-1:10:Attaque type 'Eau' de puissance 90:
+19:Hydrocanon:3:110:-1:-1:5:Attaque type 'Eau' de puissance 110:
+20:Eclair:4:40:-1:-1:35:Attaque type 'Electrik' de puissance 40:
+21:Onde de Choc:4:60:-1:-1:20:Attaque type 'Electrik' de puissance 60:
+22:Poing-Eclair:4:75:-1:-1:15:Attaque type 'Electrik' de puissance 75:
+23:Tonnerre:4:90:-1:-1:10:Attaque type 'Electrik' de puissance 90:
+24:Fatal-Foudre:4:110:-1:-1:5:Attaque type 'Electrik' de puissance 110:
+25:Vent feerique:5:40:-1:-1:35:Attaque type 'Fee' de puissance 40:
+26:Eclat Magique:5:60:-1:-1:20:Attaque type 'Fee' de puissance 60:
+27:Calinerie:5:75:-1:-1:15:Attaque type 'Fee' de puissance 75:
+28:Pouvoir Lunaire:5:90:-1:-1:10:Attaque type 'Fee' de puissance 90:
+29:Canon Floral:5:110:-1:-1:5:Attaque type 'Fee' de puissance 110:
+30:Flammeche:6:40:-1:-1:35:Attaque type 'Feu' de puissance 40:
+31:Calcination:6:60:-1:-1:20:Attaque type 'Feu' de puissance 60:
+32:Nitro-Charge:6:75:-1:-1:15:Attaque type 'Feu' de puissance 75:
+33:Lance-Flamme:6:90:-1:-1:10:Attaque type 'Feu' de puissance 90:
+34:Deflagration:6:110:-1:-1:5:Attaque type 'Feu' de puissance 110:
+35:Ball'Glace:7:40:-1:-1:35:Attaque type 'Glace' de puissance 40:
+36:Souffle Glace:7:60:-1:-1:20:Attaque type 'Glace' de puissance 60:
+37:Avalanche:7:75:-1:-1:15:Attaque type 'Glace' de puissance 75:
+38:Laser Glace:7:90:-1:-1:10:Attaque type 'Glace' de puissance 90:
+39:Blizzard:7:110:-1:-1:5:Attaque type 'Glace' de puissance 110:
+40:Double-Dard:8:40:-1:-1:35:Attaque type 'Insecte' de puissance 40:
+41:Taillade:8:60:-1:-1:20:Attaque type 'Insecte' de puissance 60:
+42:Piqure:8:75:-1:-1:15:Attaque type 'Insecte' de puissance 75:
+43:Plaix-Croix:8:90:-1:-1:10:Attaque type 'Insecte' de puissance 90:
+44:Megacorn:8:110:-1:-1:5:Attaque type 'Insecte' de puissance 110:
+45:Bluff:9:40:-1:-1:35:Attaque type 'Normal' de puissance 40:
+46:Meteores:9:60:-1:-1:20:Attaque type 'Normal' de puissance 60:
+47:Coup d'Boule:9:75:-1:-1:15:Attaque type 'Normal' de puissance 75:
+48:Plaquage:9:90:-1:-1:10:Attaque type 'Normal' de puissance 90:
+49:Ultralaser:9:110:-1:-1:5:Attaque type 'Normal' de puissance 110:
+50:Fouet-Liane:10:40:-1:-1:35:Attaque type 'Plante' de puissance 40:
+51:Feuillemagik:10:60:-1:-1:20:Attaque type 'Plante' de puissance 60:
+52:Tranche-Herbe:10:75:-1:-1:15:Attaque type 'Plante' de puissance 75:
+53:Mega-Fouet:10:90:-1:-1:10:Attaque type 'Plante' de puissance 90:
+54:Lance-Soleil:10:110:-1:-1:5:Attaque type 'Plante' de puissance 110:
+55:Acide:11:40:-1:-1:35:Attaque type 'Poison' de puissance 40:
+56:Croc Venin:11:60:-1:-1:20:Attaque type 'Poison' de puissance 60:
+57:Poison Croix:11:75:-1:-1:15:Attaque type 'Poison' de puissance 75:
+58:Bomb-Beurk:11:90:-1:-1:10:Attaque type 'Poison' de puissance 90:
+59:Eructation:11:110:-1:-1:5:Attaque type 'Poison' de puissance 110:
+60:Choc Mental:12:40:-1:-1:35:Attaque type 'Psy' de puissance 40:
+61:Rafale-Psy:12:60:-1:-1:20:Attaque type 'Psy' de puissance 60:
+62:Lumi-Eclat:12:75:-1:-1:15:Attaque type 'Psy' de puissance 75:
+63:Psyko:12:90:-1:-1:10:Attaque type 'Psy' de puissance 90:
+64:Laser Prisme:12:110:-1:-1:5:Attaque type 'Psy' de puissance 110:
+65:Boule Roc:13:40:-1:-1:35:Attaque type 'Roche' de puissance 40:
+66:Tomberoche:13:60:-1:-1:20:Attaque type 'Roche' de puissance 60:
+67:Eboulement:13:75:-1:-1:15:Attaque type 'Roche' de puissance 75:
+68:Lance de Roc:13:90:-1:-1:10:Attaque type 'Roche' de puissance 90:
+69:Orage Adamantin:13:110:-1:-1:5:Attaque type 'Roche' de puissance 110:
+70:Coud'Boue:14:40:-1:-1:35:Attaque type 'Sol' de puissance 40:
+71:Boue-Bomb:14:60:-1:-1:20:Attaque type 'Sol' de puissance 60:
+72:Telluriforce:14:75:-1:-1:15:Attaque type 'Sol' de puissance 75:
+73:Lame Pangeenne:14:90:-1:-1:10:Attaque type 'Sol' de puissance 90:
+74:Seisme:14:110:-1:-1:5:Attaque type 'Sol' de puissance 110:
+75:Ombre Portee:15:40:-1:-1:35:Attaque type 'Spectre' de puissance 40:
+76:Vent Mauvais:15:60:-1:-1:20:Attaque type 'Spectre' de puissance 60:
+77:Ball Ombre:15:75:-1:-1:15:Attaque type 'Spectre' de puissance 75:
+78:Hantise:15:90:-1:-1:10:Attaque type 'Spectre' de puissance 90:
+79:Revenant:15:110:-1:-1:5:Attaque type 'Spectre' de puissance 110:
+80:Poursuite:16:40:-1:-1:35:Attaque type 'Tenebre' de puissance 40:
+81:Morsure:16:60:-1:-1:20:Attaque type 'Tenebre' de puissance 60:
+82:Tranche Nuit:16:75:-1:-1:15:Attaque type 'Tenebre' de puissance 75:
+83:Tricherie:16:90:-1:-1:10:Attaque type 'Tenebre' de puissance 90:
+84:Furie Dimension:16:110:-1:-1:5:Attaque type 'Tenebre' de puissance 110:
+85:Tornade:17:40:-1:-1:35:Attaque type 'Spectre' de puissance 40:
+86:Cru-Aile:17:60:-1:-1:20:Attaque type 'Spectre' de puissance 60:
+87:Lame d'Aire:17:75:-1:-1:15:Attaque type 'Spectre' de puissance 75:
+88:Aeroblast:17:90:-1:-1:10:Attaque type 'Spectre' de puissance 90:
+89:Rapace:17:110:-1:-1:5:Attaque type 'Spectre' de puissance 110:
+90:Soin:-1:-1:0:20:20:Regen' de 20 PV:
+91:Guerison:-1:-1:0:40:10:Regen' de 40 PV:
+92:Peau-Neuve:-1:-1:0:100:5:Regen' de 100 PV:
+93:Affutage:-1:-1:1:8:20:Augmente l'ATT de 8:
+94:Tenacite:-1:-1:1:15:10:Augmente l'ATT de 15:
+95:Danse-Lame:-1:-1:1:25:5:Augmente l'ATT de 25:
+96:Armure:-1:-1:2:8:20:Augmente la DEF de 8:
+97:Boul'Armure:-1:-1:2:15:10:Augmente la DEF de 15:
+98:Forteresse:-1:-1:2:25:5:Augmente la DEF de 25:
+99:Reflet:-1:-1:3:10:20:Augmente la VIT de 10:
+100:Boost:-1:-1:3:25:10:Augmente la VIT de 25:
+101:Anti-Gravite:-1:-1:3:60:5:Augmente la VIT de 60:
+102:Rugissement:-1:-1:1:-8:20:Baisse l'ATT de 8:
+103:Entrave:-1:-1:1:-15:10:Baisse l'ATT de 15:
+104:Grondement:-1:-1:1:-25:5:Baisse l'ATT de 25:
+105:Groz'Yeux:-1:-1:2:-8:20:Baisse la DEF de 8:
+106:Grincement:-1:-1:2:-15:10:Baisse la DEF de 15:
+107:Flash:-1:-1:2:-25:5:Baisse la DEF de 25:
+108:Grimace:-1:-1:3:-10:20:Baisse la VIT de 10:
+108:Regard Noir:-1:-1:3:-25:10:Baisse la VIT de 25:
+110:Psychanalyse:-1:-1:3:-60:5:Baisse la VIT de 60:
