@@ -283,7 +283,7 @@ OBJ	=	$(SRC:.c=.o)
 
 CFLAGS = -g -I./include/ -D_GNU_SOURCE -W -Wall -Wextra -O3 -O2
 
-LDFLAGS =  -lm lsfml-graphics -lsfml-window -lsfml-system
+LDFLAGS =  -lm -lcsfml-graphics -lcsfml-window -lcsfml-system -lcsfml-audio
 
 
 ## ========================================================================== ##

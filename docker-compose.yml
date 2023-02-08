@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  rpg:
+    build: .
+    container_name: my_rpg
+    volumes:
+      - "data-rpg:/rpg"
+
+volumes:
+  data-rpg:
