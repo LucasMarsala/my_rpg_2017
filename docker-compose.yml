@@ -3,8 +3,10 @@ services:
   rpg:
     build: .
     container_name: my_rpg
+    privileged: true
+    environment:
+      DISPLAY: $DISPLAY
+    network_mode:
+      host
     volumes:
-      - "data-rpg:/rpg"
-
-volumes:
-  data-rpg:
+      - /tmp/.X11-unix:/tmp/.X11-unix

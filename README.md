@@ -10,7 +10,8 @@ Last project of the first year at Epitech. The aim of the project was to create 
 ## Build
 
 ```
+$ sudo apt install -y x11-xserver-utils
+$ xhost +local:
 $ docker-compose build
 $ docker-compose up
-$ docker cp my_rpg:/rpg/my_rpg .
 ```

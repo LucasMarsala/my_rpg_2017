@@ -7,3 +7,5 @@ COPY . .
 RUN apt-get -y update && apt-get install -y libcsfml-dev gcc make
 
 RUN make
+
+CMD ./my_rpg
