@@ -5,13 +5,21 @@ Last project of the first year at Epitech. The aim of the project was to create 
 
 ## Prerequisite
 
-  Docker version 20.10 and docker-compose version 1.29.2
+  Docker version 20.10 and docker-compose version 1.29.2 or gcc version 12.2.0 and make version 4.3.
 
-## Build
+## Build with docker
 
 ```
 $ sudo apt install -y x11-xserver-utils
 $ xhost +local:
 $ docker-compose build
 $ docker-compose up
+```
+
+## Build with makefile
+
+```
+$ sudo apt install -y libcsfml-dev
+$ make
+$ ./my_rpg
 ```
