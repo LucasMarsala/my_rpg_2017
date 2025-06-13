@@ -1,28 +1,68 @@
 # Welcome in Poketek !
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f99426f2eaf44c8aa0b37d177eb6c90f)](https://www.codacy.com/gh/LucasMarsala/my_rpg_2017/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LucasMarsala/my_rpg_2017&amp;utm_campaign=Badge_Grade)
+![Language](https://img.shields.io/badge/language-C-blue.svg)
 
-Last project of the first year at Epitech. The aim of the project was to create a rpg game using libcsfml. We decided to create a remake of Pokemon using heads of Epitech students. <br>***Only avaible on linux***
-
+A simple RPG game inspired by the Pokémon universe, written in C. 
+Explore the world, interact with NPCs, battle creatures, and build your team — all from the terminal!
+Disclaimer: This project is a student-made game developed for educational purposes. It is not affiliated with, endorsed by, or associated with Nintendo or The Pokémon Company in any way.
+---
 ![Screenshot_2023-03-21_10-44-15](https://user-images.githubusercontent.com/39527261/226570311-82b98bd7-3c2d-40f4-8309-0a1866fea20a.png)
-![Screenshot_2023-03-21_10-47-30](https://user-images.githubusercontent.com/39527261/226570702-13ecf696-0c45-4f77-a94b-7ab7eb059e11.png)
 
-## Prerequisite
+## 🎮 Features
 
-  Docker version 20.10 and docker-compose version 1.29.2 or gcc version 12.2.0 and make version 4.3.
+- 🌍 Explore a custom 2D world
+- 🧍 Interact with NPCs
+- ⚔️ Turn-based battle system
+- 🐾 Capture and train creatures
+- 💾 Save and load game progress (Multiple saves are possible !)
+- 🖥️ Text-based and graphical interface using CSFML
 
-## Build with docker
+---
 
+## 🛠️ Built With
+
+- **C (C99)**
+- **CSFML** — the C binding for SFML (graphics, window, audio)
+- Custom game engine components written from scratch
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- `gcc` or any C compiler
+- `make`
+- [CSFML](https://www.sfml-dev.org/download/csfml/) (Graphics/Audio library)
+
+```bash
+sudo apt install -y gcc make libcsfml-dev
 ```
-$ sudo apt install -y x11-xserver-utils
-$ xhost +local:
-$ docker-compose build
-$ docker-compose up
+
+or a Docker version 20+
+
+```bash
+sudo apt install -y docker x11-xserver-utils
 ```
 
-## Build with makefile
+### How to run the project
 
+Using Make
+
+```bash
+
+make
+./my_rpg
 ```
-$ sudo apt install -y libcsfml-dev
-$ make
-$ ./my_rpg
+
+Using Docker
+```bash
+xhost +local:
+docker compose up --build
 ```
+
+### Contributors
+[Corentin Mattern](https://github.com/cmattern68)
+[Kevin Spegt](https://github.com/MrKrj)
