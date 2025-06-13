@@ -5,7 +5,7 @@
 A simple RPG game inspired by the Pokémon universe, written in C. 
 Explore the world, interact with NPCs, battle creatures, and build your team — all from the terminal!
 Disclaimer: This project is a student-made game developed for educational purposes. It is not affiliated with, endorsed by, or associated with Nintendo or The Pokémon Company in any way.
----
+
 ![Screenshot_2023-03-21_10-44-15](https://user-images.githubusercontent.com/39527261/226570311-82b98bd7-3c2d-40f4-8309-0a1866fea20a.png)
 
 ## 🎮 Features
